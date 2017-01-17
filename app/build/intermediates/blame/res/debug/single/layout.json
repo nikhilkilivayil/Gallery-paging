@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/fragment_section_dummy.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/fragment_section_dummy.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/activity_collection_demo.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/activity_collection_demo.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/fragment_section_launchpad.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/fragment_collection_object.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/fragment_collection_object.xml"
+    }
+]

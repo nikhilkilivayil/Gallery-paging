@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_0f6a00ac446a2c26a18bd70efcd4481e6d4d2c78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_94dede275bcc913fdbe89fb3fc03c7dc2775c30f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_9a24be55167e380b03f1bcb8238389ca6749927b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_07f908a2af9a0798134ec6bebe263b726d45b94c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d32951c842ae51ddcfdfefe789fecd1aa59912c1">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ecd853f1b2c83cf1374346e7bf549f60e0005f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_4fa19e4e237ac393aa267924d0855c49a593fc06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_19225586f2e8cb9a33d1a9e21d7cd09643f3d7c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_53bb7d62dd4f5520d7e20daf23d280c5ec1044d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6642c945433bfe2c7db15116a2f79d72f8681d1">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6024cc585f758d6b700a91b7f3123f0acb6e8565/classes.dex" />
+    </item>
+
+</items>

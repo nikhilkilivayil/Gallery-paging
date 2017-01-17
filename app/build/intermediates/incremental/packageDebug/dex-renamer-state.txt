@@ -1,0 +1,7 @@
+#Tue Jan 17 19:16:49 IST 2017
+base.0=/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ecd853f1b2c83cf1374346e7bf549f60e0005f35
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6024cc585f758d6b700a91b7f3123f0acb6e8565/classes.dex
+base.1=/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6024cc585f758d6b700a91b7f3123f0acb6e8565
+file.0=/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ecd853f1b2c83cf1374346e7bf549f60e0005f35/classes.dex
