@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_dots.png",
+        "source": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/drawable-hdpi/ic_dots.png"
+    },
+    {
         "merged": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }

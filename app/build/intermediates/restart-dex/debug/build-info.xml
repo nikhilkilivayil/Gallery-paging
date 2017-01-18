@@ -5,33 +5,54 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="33741773721474"
+    timestamp="12272472779671"
     token="-686985904043128423"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="883" />
+        duration="111" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="387" />
     <task
         name="instant-run-transform"
-        duration="162" />
+        duration="24" />
     <task
         name="verifier"
         duration="1" />
 
     <artifact
-        location="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="33741773721474"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="12122557505693"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="12159584289704"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="12259180534158"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/builds/debug/12259180534158/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="12272472779671"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_495bd9f2e65517525312173f10b9dd15d30607f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -21,12 +30,75 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_2dde394073a99f2c75b548ad2a866c152160c96b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_19225586f2e8cb9a33d1a9e21d7cd09643f3d7c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_09ee401c8de2493de0b5ff5f86190260a83a9037/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_fb0b872001f440a3340bb6236f3adc26b85f0e84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_26bc1d16d45b79f14b9c4e006b0e350c4c2c0e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_0908c4f4b20549a519db7f5ac3edf945b004ba2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="aee64634871d88a419d59eb743c1258a60f19700">
         <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_9a24be55167e380b03f1bcb8238389ca6749927b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_9f019caea4827c422ff6eb244a41952f5df23fe5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -43,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d32951c842ae51ddcfdfefe789fecd1aa59912c1">
+        sha1="ec2b282d89b4d946b2c4f500c1c769b59e5cf9fd">
         <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ecd853f1b2c83cf1374346e7bf549f60e0005f35/classes.dex" />
     </item>
     <item
@@ -57,12 +129,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jar="/home/nikhil/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_19225586f2e8cb9a33d1a9e21d7cd09643f3d7c3/classes.dex" />
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.2_07fd3349e949f6b4f152e24bddb9aac1438f9526/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -79,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d6642c945433bfe2c7db15116a2f79d72f8681d1">
+        sha1="f4206f3b6814dd9f74d1bfccf944ebcadaeef957">
         <dex dex="/home/nikhil/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6024cc585f758d6b700a91b7f3123f0acb6e8565/classes.dex" />
     </item>
 
